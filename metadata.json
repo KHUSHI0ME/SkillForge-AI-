@@ -1,0 +1,8 @@
+{
+  "name": "SkillForge AI",
+  "description": "An AI-powered personalized learning mentor featuring customized roadmaps, interactive daily coding practice, guided projects, voice-enabled AI tutor, and doc-informed RAG assistant.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
